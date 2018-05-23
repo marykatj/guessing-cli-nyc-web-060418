@@ -8,4 +8,5 @@ def run_guessing_game(input)
   elsif input == random
     return "You guessed the correct number!"
   else "The computer guessed #{random}."
+  end
 end
