@@ -1,1 +1,4 @@
-# Code your solution here!
+input = gets.chomp
+
+def run_guessing_game(input)
+end
